@@ -6,6 +6,7 @@ export default function AllItems() {
       <h1 className="text-4xl font-bold">
         {t("greeting")} {lang}
       </h1>
+      <h2>added a message for the commit</h2>
     </div>
   );
 }
